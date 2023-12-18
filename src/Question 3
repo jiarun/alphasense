@@ -1,0 +1,11 @@
+1. Thread Safety:
+Concurrent hashmap could be used instead of hashmap, avoids explicit synchronization .
+
+2. Logging:
+Log the error completely for easier debugging, its a good practice for exception handling.
+
+3. Logger Name could be defined as a constant.
+
+4. Null checks for the input parameter.
+
+5. Equality of byte arrays.
